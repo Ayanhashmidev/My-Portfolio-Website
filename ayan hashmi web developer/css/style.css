@@ -652,7 +652,7 @@ color: #A38EF3;
   }
 
   .text p {
-    font-size: 15px;
+    font-size: 17px;
     padding-right: 0;
     text-align: center;
   }
@@ -700,11 +700,14 @@ color: #A38EF3;
 
   /* SKILLS */
   .row-cols-auto {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 10px;
+    padding-right: 10px;
     justify-content: center;
     gap: 30px;
+  
   }
+
+
 
   .ndimgicon {
     flex-wrap: wrap;
