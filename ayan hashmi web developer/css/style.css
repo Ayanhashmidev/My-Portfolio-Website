@@ -677,7 +677,7 @@ color: #A38EF3;
   } 
 
   /* ABOUT SECTION */
-  .content {
+  .content { 
     flex-direction: column;
     gap: 40px;
   }
