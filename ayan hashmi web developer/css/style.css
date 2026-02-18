@@ -9,7 +9,7 @@
 
 body {
 
-background: linear-gradient( to bottom right,#18140d, #161024);
+background: linear-gradient( to bottom right,#18140d, #1f1438);
 }
 
 .fixed-top {
@@ -18,7 +18,7 @@ background: linear-gradient( to bottom right,#18140d, #161024);
 }
 
 .container-fluid {
-background: linear-gradient(to bottom right, #18140d, #161024);     
+background: linear-gradient(to bottom right, #18140d, #1f1438);     
 text-align: center;   
 }
 
@@ -50,12 +50,12 @@ text-align: center;
 }
 
 .offcanvas-header{
-background: linear-gradient(to bottom right, #18140d, #161024);    
+background: linear-gradient(to bottom right, #18140d, #1f1438);    
 color: #A38EF3;
 }
 
 .offcanvas-body {
-background: linear-gradient(to bottom right, #18140d, #161024);    
+background: linear-gradient(to bottom right, #18140d, #1f1438);    
 }
 
 .navbar-toggler {
@@ -566,7 +566,7 @@ color: #A38EF3;
 .circle-box {
   height: 170px;
   border-radius: 10px;
-  background: radial-gradient(circle at top, #555, #111);
+  background: radial-gradient(circle at top, #18140d, #1f1438);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -601,8 +601,8 @@ color: #A38EF3;
 }
 
 .tags span {
-  background: rgba(20, 184, 166, 0.15);
-  color: #2dd4bf;
+  background: rgba(49, 39, 94, 0.247);
+  color: #A38EF3;
   padding: 5px 12px;
   border-radius: 20px;
   font-size: 12px;
@@ -611,13 +611,13 @@ color: #A38EF3;
 .links {
   display: flex;
   gap: 24px;
-  color: #9ca3af;
+  color: #ffffff;
   font-size: 14px;
   cursor: pointer;
 }
 
 .links span:hover {
-  color: #fff;
+  color: #A38EF3;
 }
 
 
