@@ -271,7 +271,7 @@ background: linear-gradient(to bottom right, #18140d, #1f1438);
 }
 
 .anchor:hover {
-  color: #000000;
+  color: #fff7f7;
 }
 
 .button a::before {
