@@ -621,7 +621,7 @@ button {
   font-weight: 600;
 }
 
-.section4>h1:hover {
+.section4>h1:hover { 
   color: #A38EF3;
   transform: translateY(-5px);
     
