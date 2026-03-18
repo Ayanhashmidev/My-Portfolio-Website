@@ -885,3 +885,8 @@ button {
 @media (min-width: 1024px) {
   /* intentionally empty */
 };
+
+
+.main-certificate > img {
+  align-items: center;
+}
